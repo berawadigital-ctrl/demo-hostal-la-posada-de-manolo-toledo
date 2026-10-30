@@ -1,0 +1,46 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.laposadademanolo.com/",
+ "read_at": "2026-10-30T11:14:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.laposadademanolo.com/habitaciones/",
+   "sha256": "2361542cd0c925ddcbc19963555413511eee7fb8dda646dd44bf7849e7c35b8b",
+   "chars": 3043
+  },
+  {
+   "url": "https://www.laposadademanolo.com/libros-viajeros/",
+   "sha256": "c4873306df10caafcd34fce9ab335d60221697d5f242e1e1d7a1b47acdbe1ddc",
+   "chars": 1580
+  },
+  {
+   "url": "https://www.laposadademanolo.com/servicios/",
+   "sha256": "c25b67b065864f190373a36df1b4e1db090a7c1f7a6ea46da35ce25c3e7d2c94",
+   "chars": 2488
+  },
+  {
+   "url": "https://www.laposadademanolo.com/situacion-toledo/",
+   "sha256": "82fa7b4b3355ae58c1b97df06b3a155bacd49b4dc32978e5497b8cea6cb059d8",
+   "chars": 2520
+  }
+ ],
+ "other_pages_read": [
+  "https://www.laposadademanolo.com",
+  "https://www.laposadademanolo.com/",
+  "https://www.laposadademanolo.com/aviso-legal/",
+  "https://www.laposadademanolo.com/contacto/",
+  "https://www.laposadademanolo.com/en/",
+  "https://www.laposadademanolo.com/en/location-toledo/",
+  "https://www.laposadademanolo.com/en/offers/",
+  "https://www.laposadademanolo.com/en/offers/non-refundable-10-discount-44hmo2/",
+  "https://www.laposadademanolo.com/en/rooms/",
+  "https://www.laposadademanolo.com/fotos/",
+  "https://www.laposadademanolo.com/fr/",
+  "https://www.laposadademanolo.com/ofertas/",
+  "https://www.laposadademanolo.com/ofertas/no-reembolsable-10-descuento-44hmo2/",
+  "https://www.laposadademanolo.com/ofertas/tarifa-especial-web-54hmp3/",
+  "https://www.laposadademanolo.com/politica-cookies/",
+  "https://www.laposadademanolo.com/politica-privacidad/"
+ ]
+}

@@ -1,0 +1,516 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hostal-la-posada-de-manolo-toledo",
+ "source_site": "https://www.laposadademanolo.com/",
+ "source_read_at": "2026-10-30T11:14:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "doble",
+     "superior"
+    ],
+    "en": [
+     "rooms",
+     "room types",
+     "double",
+     "superior"
+    ],
+    "fr": [
+     "chambres",
+     "double",
+     "superieure"
+    ],
+    "de": [
+     "zimmer",
+     "doppel",
+     "superior"
+    ]
+   },
+   "a": {
+    "es": "Tiene Doble Pequeña (interior, al patio), Doble Estándar Básica y Plus (con balcón), Doble Confort, la más amplia, y Superior con Patio, para uso doble o triple. Todas con calefacción, aire acondicionado en verano, TV, baño con ducha y wifi gratuito.",
+    "en": "There are Small Doubles (interior, onto the patio), Basic and Plus Standard Doubles (with balcony), the Comfort Double, the most spacious, and the Superior with Patio, for double or triple use. All with heating, summer air conditioning, TV, bathroom with shower and free wifi.",
+    "fr": "Il y a des Doubles Petites (intérieures, sur le patio), des Doubles Standard Basique et Plus (avec balcon), la Double Confort, la plus spacieuse, et la Supérieure avec Patio, pour usage double ou triple. Toutes avec chauffage, climatisation en été, TV, salle de bain avec douche et wifi gratuit.",
+    "de": "Es gibt kleine Doppelzimmer (innen, zum Patio), Standard-Doppelzimmer Basic und Plus (mit Balkon), das Komfort-Doppelzimmer, das geräumigste, und das Superior mit Patio für zwei oder drei Personen. Alle mit Heizung, Klimaanlage im Sommer, TV, Bad mit Dusche und kostenlosem WLAN."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/habitaciones/",
+     "quote": "Doble Pequeña"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/habitaciones/",
+     "quote": "Doble Estándar Básica"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/habitaciones/",
+     "quote": "Doble Estándar Plus"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/habitaciones/",
+     "quote": "Son las habitaciones más amplias"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/habitaciones/",
+     "quote": "lo que la hace perfecta para un uso doble o triple"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/habitaciones/",
+     "quote": "Disponen de calefacción, aire acondicionado en los meses de verano, televisión, baño privado con ducha, secador y productos de acogida. Acceso WiFi gratuito."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayun"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay desayuno buffet en el salón Alcaicería o en la terraza, de 8:30 a 10:00 h.",
+    "en": "Yes, there is a buffet breakfast in the Alcaicería lounge or on the terrace, from 8:30 to 10:00.",
+    "fr": "Oui, un petit-déjeuner buffet est servi dans le salon Alcaicería ou sur la terrasse, de 8h30 à 10h00.",
+    "de": "Ja, es gibt ein Frühstücksbuffet im Salon Alcaicería oder auf der Terrasse, von 8:30 bis 10:00 Uhr."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Disfruta de un desayuno buffet con vistas en el salón Alcaicería o en la terraza"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Horario de 8:30 a 10:00 h."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "aparcamiento",
+   "keys": {
+    "es": [
+     "aparc",
+     "parking",
+     "garaje",
+     "coche"
+    ],
+    "en": [
+     "park",
+     "garage",
+     " car"
+    ],
+    "fr": [
+     "garer",
+     "parking",
+     "garage",
+     "voiture"
+    ],
+    "de": [
+     "parken",
+     "parkplatz",
+     "garage",
+     "auto "
+    ]
+   },
+   "a": {
+    "es": "La posada no tiene garaje para coche. Recomiendan el Garaje Alcázar, con descuento para sus clientes, o el Parking Indigo Corralillo de San Miguel; hay parking público a 4 minutos a pie. Sí hay garaje para moto y bicicleta.",
+    "en": "The inn has no car garage. They recommend the Garaje Alcázar, with a discount for guests, or the Indigo Corralillo de San Miguel car park; there is public parking a 4-minute walk away. There is a garage for motorbikes and bicycles.",
+    "fr": "L’auberge n’a pas de garage pour voiture. Elle recommande le Garaje Alcázar, avec réduction pour ses clients, ou le parking Indigo Corralillo de San Miguel ; parking public à 4 minutes à pied. Il y a un garage pour motos et vélos.",
+    "de": "Das Gasthaus hat keine Autogarage. Empfohlen werden die Garaje Alcázar mit Rabatt für Gäste oder das Parkhaus Indigo Corralillo de San Miguel; ein öffentlicher Parkplatz liegt 4 Gehminuten entfernt. Für Motorräder und Fahrräder gibt es eine Garage."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "La Posada no tiene garaje para coche"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Garaje Alcázar donde tenemos un descuento para nuestros clientes"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Parking público cercano (a 4 min. a pie)"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Garaje para moto"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Garaje para bicicletas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "check",
+     "hora",
+     "llegada",
+     "salida"
+    ],
+    "en": [
+     "check",
+     "arrival",
+     "what time"
+    ],
+    "fr": [
+     "arrivee",
+     "heure",
+     "depart"
+    ],
+    "de": [
+     "check",
+     "ankunft",
+     "abreise"
+    ]
+   },
+   "a": {
+    "es": "Check-in de 14:00 a 17:00 h (si llegas antes, guardan el equipaje) y check-out hasta las 11:00 h. La recepción abre de 8:30 a 17:00 h.",
+    "en": "Check-in is from 14:00 to 17:00 (luggage storage if you arrive earlier) and check-out until 11:00. Reception is open 8:30 to 17:00.",
+    "fr": "Arrivée de 14h00 à 17h00 (bagagerie si vous arrivez plus tôt) et départ jusqu’à 11h00. La réception est ouverte de 8h30 à 17h00.",
+    "de": "Check-in 14:00 bis 17:00 Uhr (Gepäckaufbewahrung bei früherer Ankunft), Check-out bis 11:00 Uhr. Die Rezeption ist von 8:30 bis 17:00 Uhr besetzt."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Check-in: de las 14:00 a las 17:00 h"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Check-out: hasta las 11:00 h"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Recepción de las 8:30 a las 17:00 h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "animal"
+    ],
+    "en": [
+     "pets",
+     "dog",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "chien"
+    ],
+    "de": [
+     "haustier",
+     "hund"
+    ]
+   },
+   "a": {
+    "es": "No, no se admiten mascotas.",
+    "en": "No, pets are not allowed.",
+    "fr": "Non, les animaux ne sont pas admis.",
+    "de": "Nein, Haustiere sind nicht erlaubt."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Mascotas: no se admiten"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "como llegar"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou se trouv",
+     "adresse",
+     "emplacement"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage"
+    ]
+   },
+   "a": {
+    "es": "En la Calle Sixto Ramón Parro 8, 45001 Toledo, en el centro histórico, al lado de la Catedral.",
+    "en": "At Calle Sixto Ramón Parro 8, 45001 Toledo, in the historic centre, next to the Cathedral.",
+    "fr": "Calle Sixto Ramón Parro 8, 45001 Tolède, dans le centre historique, à côté de la cathédrale.",
+    "de": "In der Calle Sixto Ramón Parro 8, 45001 Toledo, in der Altstadt neben der Kathedrale."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/situacion-toledo/",
+     "quote": "situada en la calle Sixto Ramón Parro 8, al lado de la Catedral"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "45001 Toledo"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "que_visitar",
+   "keys": {
+    "es": [
+     "cerca",
+     "visitar",
+     "que ver"
+    ],
+    "en": [
+     "nearby",
+     "to visit",
+     "what to see"
+    ],
+    "fr": [
+     "proximit",
+     "visiter",
+     "que voir"
+    ],
+    "de": [
+     "nahe",
+     "besichtig",
+     "sehenswurd"
+    ]
+   },
+   "a": {
+    "es": "A pie: la Catedral a 2 minutos, la Plaza de Zocodover a 7, el Alcázar y el Museo del Ejército a 8, la Puerta de Bisagra y el Museo del Greco a 14 y San Juan de los Reyes a 16.",
+    "en": "On foot: the Cathedral 2 minutes, Plaza de Zocodover 7, the Alcázar and Army Museum 8, Puerta de Bisagra and El Greco Museum 14, and San Juan de los Reyes 16.",
+    "fr": "À pied : la cathédrale à 2 minutes, la Plaza de Zocodover à 7, l’Alcázar et le musée de l’Armée à 8, la Puerta de Bisagra et le musée du Greco à 14 et San Juan de los Reyes à 16.",
+    "de": "Zu Fuß: Kathedrale 2 Minuten, Plaza de Zocodover 7, Alcázar und Armeemuseum 8, Puerta de Bisagra und Greco-Museum 14, San Juan de los Reyes 16."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/situacion-toledo/",
+     "quote": "Catedral Primada Santa María de Toledo 2 minutos caminando"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/situacion-toledo/",
+     "quote": "Pl. de Zocodover 7 minutos caminando"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/situacion-toledo/",
+     "quote": "Alcázar de Toledo 8 minutos caminando"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/situacion-toledo/",
+     "quote": "Museo del Greco 14 minutos caminando"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/situacion-toledo/",
+     "quote": "Monasterio de San Juan de los Reyes 16 minutos caminando"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "how do i book",
+     "to book",
+     "booking",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buchen",
+     "buchung",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes buscar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 925 25 89 85 o escribir a toledo@laposadademanolo.com. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability and book on their booking engine (Book button), call +34 925 25 89 85 or email toledo@laposadademanolo.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 925 25 89 85 ou écrire à toledo@laposadademanolo.com. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 925 25 89 85 anrufen oder an toledo@laposadademanolo.com schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "+34 925 25 89 85"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "toledo@laposadademanolo.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "terraza",
+   "keys": {
+    "es": [
+     "terraz",
+     "vistas"
+    ],
+    "en": [
+     "terrace",
+     "views"
+    ],
+    "fr": [
+     "terrasse",
+     "vue"
+    ],
+    "de": [
+     "terrasse",
+     "aussicht",
+     "blick"
+    ]
+   },
+   "a": {
+    "es": "Sí. La terraza del salón Alcaicería, con mesas de abril a septiembre, tiene vistas de la Catedral y los tejados, y la terraza de la planta Judía se puede usar a cualquier hora.",
+    "en": "Yes. The Alcaicería lounge terrace, with tables from April to September, overlooks the Cathedral and rooftops, and the terrace on the Jewish floor can be used at any time.",
+    "fr": "Oui. La terrasse du salon Alcaicería, avec tables d’avril à septembre, donne sur la cathédrale et les toits, et celle de l’étage juif est accessible à toute heure.",
+    "de": "Ja. Die Terrasse des Salons Alcaicería mit Tischen von April bis September blickt auf Kathedrale und Dächer, die Terrasse der jüdischen Etage ist jederzeit nutzbar."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "ofrece preciosas vistas de la Catedral y los tejados"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "(abril a septiembre)"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "tiene mesas con sillas para poder disfrutar de las vistas a cualquier hora"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "libros_viajeros",
+   "keys": {
+    "es": [
+     "libro"
+    ],
+    "en": [
+     "travelling book",
+     "travel book"
+    ],
+    "fr": [
+     "livre"
+    ],
+    "de": [
+     "reisebuch",
+     "bucher"
+    ]
+   },
+   "a": {
+    "es": "Son rincones con libros de la familia y amigos en cada una de las tres plantas y en el salón. Puedes llevarte el que quieras sin dejar otro a cambio.",
+    "en": "They are corners with books from the family and friends on each of the three floors and in the lounge. You can take any one you like without leaving another in exchange.",
+    "fr": "Ce sont des coins avec des livres de la famille et d’amis à chacun des trois étages et au salon. Vous pouvez emporter celui que vous voulez sans en laisser un autre.",
+    "de": "Es sind Ecken mit Büchern der Familie und von Freunden auf jeder der drei Etagen und im Salon. Sie können jedes Buch mitnehmen, ohne ein anderes dazulassen."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/libros-viajeros/",
+     "quote": "Los libros que encontrarás son nuestros, de nuestra familia y amigos"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/libros-viajeros/",
+     "quote": "Están situados en cada una de nuestras tres plantas y en una pequeña librería en el salón"
+    },
+    {
+     "url": "https://www.laposadademanolo.com/libros-viajeros/",
+     "quote": "no necesitas dejar uno a cambio"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet"
+    ],
+    "en": [
+     "wifi",
+     "internet"
+    ],
+    "fr": [
+     "wifi",
+     "internet"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet"
+    ]
+   },
+   "a": {
+    "es": "Sí, internet gratis en toda la posada.",
+    "en": "Yes, free internet throughout the inn.",
+    "fr": "Oui, internet gratuit dans toute l’auberge.",
+    "de": "Ja, kostenloses Internet im ganzen Haus."
+   },
+   "sources": [
+    {
+     "url": "https://www.laposadademanolo.com/servicios/",
+     "quote": "Internet gratis en todo el hotel"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
