@@ -1,0 +1,395 @@
+{
+ "url": "file:///tmp/zip-hostal-la-posada-de-manolo-toledo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene Doble Pequeña (interior, al patio), Doble Estándar Básica y Plus (con balcón), Doble Confort, la más amplia, y Superior con Patio, par"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, hay desayuno buffet en el salón Alcaicería o en la terraza, de 8:30 a 10:00 h."
+    },
+    {
+     "q": "¿Dónde aparco?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La posada no tiene garaje para coche. Recomiendan el Garaje Alcázar, con descuento para sus clientes, o el Parking Indigo Corralillo de San "
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in de 14:00 a 17:00 h (si llegas antes, guardan el equipaje) y check-out hasta las 11:00 h. La recepción abre de 8:30 a 17:00 h."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No, no se admiten mascotas."
+    },
+    {
+     "q": "¿Dónde está la posada?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "En la Calle Sixto Ramón Parro 8, 45001 Toledo, en el centro histórico, al lado de la Catedral."
+    },
+    {
+     "q": "¿Qué hay cerca?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "A pie: la Catedral a 2 minutos, la Plaza de Zocodover a 7, el Alcázar y el Museo del Ejército a 8, la Puerta de Bisagra y el Museo del Greco"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes buscar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 925 25 89 85 o escribir a toledo@laposadadem"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes buscar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 925 25 89 85 o escribir a toledo@laposadadem"
+    },
+    {
+     "q": "¿Hay terraza?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí. La terraza del salón Alcaicería, con mesas de abril a septiembre, tiene vistas de la Catedral y los tejados, y la terraza de la planta J"
+    },
+    {
+     "q": "¿Qué son los libros viajeros?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Son rincones con libros de la familia y amigos en cada una de las tres plantas y en el salón. Puedes llevarte el que quieras sin dejar otro "
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí, internet gratis en toda la posada."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 925 25 89 85 · toledo@laposadademanolo.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 925 25 89 85 · toledo@laposadademanolo.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay desayuno?",
+    "¿Dónde aparco?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are Small Doubles (interior, onto the patio), Basic and Plus Standard Doubles (with balcony), the Comfort Double, the most spacious, a"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, there is a buffet breakfast in the Alcaicería lounge or on the terrace, from 8:30 to 10:00."
+    },
+    {
+     "q": "Where can I park?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "The inn has no car garage. They recommend the Garaje Alcázar, with a discount for guests, or the Indigo Corralillo de San Miguel car park; t"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in is from 14:00 to 17:00 (luggage storage if you arrive earlier) and check-out until 11:00. Reception is open 8:30 to 17:00."
+    },
+    {
+     "q": "Do you accept pets?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No, pets are not allowed."
+    },
+    {
+     "q": "Where is the inn?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "At Calle Sixto Ramón Parro 8, 45001 Toledo, in the historic centre, next to the Cathedral."
+    },
+    {
+     "q": "What is nearby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "On foot: the Cathedral 2 minutes, Plaza de Zocodover 7, the Alcázar and Army Museum 8, Puerta de Bisagra and El Greco Museum 14, and San Jua"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call +34 925 25 89 85 or email toledo@laposadademanolo.com. This "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call +34 925 25 89 85 or email toledo@laposadademanolo.com. This "
+    },
+    {
+     "q": "Is there a terrace?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes. The Alcaicería lounge terrace, with tables from April to September, overlooks the Cathedral and rooftops, and the terrace on the Jewish"
+    },
+    {
+     "q": "What are the travelling books?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "They are corners with books from the family and friends on each of the three floors and in the lounge. You can take any one you like without"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes, free internet throughout the inn."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 925 25 89 85 · toledo@laposadademanolo.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 925 25 89 85 · toledo@laposadademanolo.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there breakfast?",
+    "Where can I park?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des Doubles Petites (intérieures, sur le patio), des Doubles Standard Basique et Plus (avec balcon), la Double Confort, la plus spaci"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, un petit-déjeuner buffet est servi dans le salon Alcaicería ou sur la terrasse, de 8h30 à 10h00."
+    },
+    {
+     "q": "Où me garer ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "L’auberge n’a pas de garage pour voiture. Elle recommande le Garaje Alcázar, avec réduction pour ses clients, ou le parking Indigo Corralill"
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Arrivée de 14h00 à 17h00 (bagagerie si vous arrivez plus tôt) et départ jusqu’à 11h00. La réception est ouverte de 8h30 à 17h00."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Non, les animaux ne sont pas admis."
+    },
+    {
+     "q": "Où se trouve l’auberge ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Calle Sixto Ramón Parro 8, 45001 Tolède, dans le centre historique, à côté de la cathédrale."
+    },
+    {
+     "q": "Qu’y a-t-il à proximité ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "À pied : la cathédrale à 2 minutes, la Plaza de Zocodover à 7, l’Alcázar et le musée de l’Armée à 8, la Puerta de Bisagra et le musée du Gre"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 925 25 89 85 ou écrire à "
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 925 25 89 85 ou écrire à "
+    },
+    {
+     "q": "Y a-t-il une terrasse ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui. La terrasse du salon Alcaicería, avec tables d’avril à septembre, donne sur la cathédrale et les toits, et celle de l’étage juif est ac"
+    },
+    {
+     "q": "Que sont les livres voyageurs ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ce sont des coins avec des livres de la famille et d’amis à chacun des trois étages et au salon. Vous pouvez emporter celui que vous voulez "
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui, internet gratuit dans toute l’auberge."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 925 25 89 85 · toledo@laposadademanolo.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 925 25 89 85 · toledo@laposadademanolo.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Où me garer ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt kleine Doppelzimmer (innen, zum Patio), Standard-Doppelzimmer Basic und Plus (mit Balkon), das Komfort-Doppelzimmer, das geräumigste"
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja, es gibt ein Frühstücksbuffet im Salon Alcaicería oder auf der Terrasse, von 8:30 bis 10:00 Uhr."
+    },
+    {
+     "q": "Wo kann ich parken?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Das Gasthaus hat keine Autogarage. Empfohlen werden die Garaje Alcázar mit Rabatt für Gäste oder das Parkhaus Indigo Corralillo de San Migue"
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in 14:00 bis 17:00 Uhr (Gepäckaufbewahrung bei früherer Ankunft), Check-out bis 11:00 Uhr. Die Rezeption ist von 8:30 bis 17:00 Uhr be"
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Nein, Haustiere sind nicht erlaubt."
+    },
+    {
+     "q": "Wo liegt das Gasthaus?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "In der Calle Sixto Ramón Parro 8, 45001 Toledo, in der Altstadt neben der Kathedrale."
+    },
+    {
+     "q": "Was gibt es in der Nähe?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Zu Fuß: Kathedrale 2 Minuten, Plaza de Zocodover 7, Alcázar und Armeemuseum 8, Puerta de Bisagra und Greco-Museum 14, San Juan de los Reyes "
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 925 25 89 85 anrufen oder an toledo@lapo"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 925 25 89 85 anrufen oder an toledo@lapo"
+    },
+    {
+     "q": "Gibt es eine Terrasse?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja. Die Terrasse des Salons Alcaicería mit Tischen von April bis September blickt auf Kathedrale und Dächer, die Terrasse der jüdischen Etag"
+    },
+    {
+     "q": "Was sind die Reisebücher?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Es sind Ecken mit Büchern der Familie und von Freunden auf jeder der drei Etagen und im Salon. Sie können jedes Buch mitnehmen, ohne ein and"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja, kostenloses Internet im ganzen Haus."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 925 25 89 85 · toledo@laposadademanolo.com."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 925 25 89 85 · toledo@laposadademanolo.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es Frühstück?",
+    "Wo kann ich parken?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
