@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-la-posada-de-manolo-toledo",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T11:13:00+01:00",
+ "updated_at": "2026-10-30T11:30:00+01:00",
+ "business": {
+  "name": "La Posada de Manolo",
+  "legal_name": "Hostal La Posada de Manolo S.L. (aviso legal de su web)",
+  "registry_ids": [
+   "B45483922"
+  ],
+  "url": "https://www.laposadademanolo.com/",
+  "domain": "laposadademanolo.com",
+  "municipality": "Toledo",
+  "province": "Toledo",
+  "address": "Calle Sixto Ramón Parro 8 · 45001 Toledo",
+  "phones": [
+   "+34 925 25 89 85"
+  ],
+  "emails": [
+   "toledo@laposadademanolo.com"
+  ],
+  "sector": "posada familiar en una casa del siglo XV junto a la Catedral de Toledo"
+ },
+ "rating": {
+  "value": 4.7,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/search/La+Posada+de+Manolo+Toledo",
+  "date": "2026-10-30",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://www.laposadademanolo.com/bookingstep1/?idHotel=100121343",
+  "note": "motor de reservas real de su web (Mirai, página bookingstep1 con idHotel 100121343; versiones /en/ y /fr/), HTTP 200 comprobado el 30/10/2026; su web no tiene alemán: de usa la versión inglesa."
+ },
+ "audit_original": {
+  "url": "https://www.laposadademanolo.com/",
+  "date": "2026-10-30T11:06:44+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
